@@ -2,11 +2,11 @@
 
 🎓 **Sistemas de Informação**
 
-💻 [Portfólio - GitHub Pages](https://jJaqueMR.github.io/) 
+💻 [Portfólio - GitHub Pages](https://JaqueMR.github.io/) 
 
 ## Contatos:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ana.tech.dev)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com)
 
 
