@@ -5,6 +5,11 @@
 ## Contatos:
 - [Logo Instagram](https://instagram.com/)
 - [Logo LinkedIn](https://www.linkedin.com)
+- ## Contatos:
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/)(https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com)(https://www.linkedin.com)
+
 
 
 ## Habilidades:
