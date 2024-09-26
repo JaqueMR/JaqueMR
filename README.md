@@ -4,11 +4,6 @@
 
 💻 [Portfólio - GitHub Pages](https://JaqueMR.github.io/) 
 
-## Contatos:
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com)
-
 
 
 ## Habilidades:
@@ -17,4 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Cypress](https://img.shields.io/badge/tested_with-Cypress-04C38E?logo=cypress&logoColor=white)
+
 
