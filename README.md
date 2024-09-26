@@ -14,6 +14,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Cypress](https://img.shields.io/badge/tested_with-Cypress-04C38E?logo=cypress&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/tested_with-Robot%20Framework-green?logo=robot-framework)
+![Power BI](https://img.shields.io/badge/Power%20BI-FAA61A?logo=power-bi&logoColor=white)
+
 
 
 
