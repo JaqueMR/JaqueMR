@@ -2,7 +2,7 @@
 
 🎓 **Sistemas de Informação**
 
-💻 [Portfólio - GitHub Pages](https://JaqueMR.github.io/) 
+💻 [Portfólio](#) 
 
 
 
