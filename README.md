@@ -1,4 +1,4 @@
-# Hello World, GitHub! 👩‍💻
+# Hello, World! 👩‍💻
 
 🎓 **Sistemas de Informação**
 
