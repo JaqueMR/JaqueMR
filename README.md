@@ -2,7 +2,7 @@
 
 🎓 **Sistemas de Informação**
 
-💻 [Portfólio](#) 
+💻 [Portfólio](https://jaquelinemeldev.netlify.app/) 
 
 
 
